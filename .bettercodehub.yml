@@ -1,0 +1,6 @@
+exclude:
+- /bin/.*
+- /doc/.*
+- /junit/.*
+- /lessons/.*
+- /lib/.*
